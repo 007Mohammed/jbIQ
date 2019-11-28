@@ -29,3 +29,18 @@ Section: Tweaks
 Description: barmoji
 Author: Albirkawi <mohammedalbirkawi@gmail.com>
 Name: barmoji
+
+Package: <com.cpdigitaldarkroom.barmoji>
+Version: <1.9>
+Architecture: iphoneos-arm
+Maintainer: Albirkawi <mohammedalbirkawi@gmail.com>
+Depends: <mobilesubstrate, preferenceloader>
+Filename: /com.cpdigitaldarkroom.barmoji_1.9.deb
+Size: 36022
+MD5sum: 93daf5bee584d17926564caa3d62ea1b
+SHA1: 8182958f9739f500bf614a6dbce7df0a2c9f6a4d
+SHA256: eedd0db45ab403ed8af6595c9fb8733bb51db8325156c9cbbd46daf775477c6d
+Section: Tweaks
+Description: barmoji
+Author: Albirkawi <mohammedalbirkawi@gmail.com>
+Name: barmoji
