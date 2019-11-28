@@ -1,11 +1,11 @@
 
 Package: com.spark.snowboard
-Version: 1.2.16~Beta1
+Version: 1.2.16
 Architecture: iphoneos-arm
 Maintainer: Albirkawi
 Depends: mobilesubstrate, preferenceloader 
 Conflicts: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
-Filename: ./debs/com.spark.snowboard_1.2.16~Beta1.deb
+Filename: ./debs/com.spark.snowboard.deb
 Size: 753312 
 MD5sum: b6ed459bca99e948030e83c494c6ca0e
 SHA1: aa686fd8abad0ce4744de8534b980887f64d568b
